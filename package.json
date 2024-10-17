@@ -1,0 +1,15 @@
+{
+  "name": "customers",
+  "version": "1.0.0",
+  "main": "src/edit.js",
+  "scripts": {
+    "start": "node src/edit.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.1",
+    "uuid": "^10.0.0"
+  }
+}
